@@ -1,3 +1,3 @@
-## Idea
+## Simple birthday project
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+https://condescending-jones-d290af.netlify.app/
